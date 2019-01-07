@@ -1,0 +1,18 @@
+{
+  "name": "@jamesmcewan/hyper-electric",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesmcewan/hyper-electric.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesmcewan/hyper-electric/issues"
+  },
+  "homepage": "https://github.com/jamesmcewan/hyper-electric#readme"
+}
